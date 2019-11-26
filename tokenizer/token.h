@@ -12,11 +12,11 @@ namespace miniplc0 {
 		NULL_TOKEN,
 		UNSIGNED_INTEGER,
 		IDENTIFIER,
-		BEGIN,
-		END,
-		VAR,
-		CONST,
-		PRINT,
+		BEGIN,//keyword
+		END,//keyword
+		VAR,//keyword
+		CONST,//keyword
+		PRINT,//keyword
 		PLUS_SIGN,
 		MINUS_SIGN,
 		MULTIPLICATION_SIGN,
